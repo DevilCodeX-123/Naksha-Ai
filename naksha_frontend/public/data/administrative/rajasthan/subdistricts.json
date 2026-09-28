@@ -1,0 +1,4261 @@
+{
+  "metadata": {
+    "source": "Government of India — Local Government Directory (LGD)",
+    "state": "Rajasthan",
+    "stateCode": "8",
+    "snapshotType": "Downloaded LGD state reports",
+    "generatedAt": "2026-09-19T03:16:25.907116+00:00"
+  },
+  "subDistricts": [
+    {
+      "code": "7146",
+      "version": "4",
+      "name": "Aau",
+      "localName": "आऊ",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6612",
+      "version": "1",
+      "name": "Abapura",
+      "localName": "Abapura",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "595",
+      "version": "3",
+      "name": "Abu Road",
+      "localName": "",
+      "districtCode": "115",
+      "districtName": "Sirohi",
+      "census2001Code": "4",
+      "census2011Code": "00595"
+    },
+    {
+      "code": "586",
+      "version": "3",
+      "name": "Ahore",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "2",
+      "census2011Code": "00586"
+    },
+    {
+      "code": "607",
+      "version": "5",
+      "name": "Ajmer",
+      "localName": "",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "2",
+      "census2011Code": "00607"
+    },
+    {
+      "code": "680",
+      "version": "2",
+      "name": "Aklera",
+      "localName": "",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "3",
+      "census2011Code": "00680"
+    },
+    {
+      "code": "7371",
+      "version": "3",
+      "name": "Aligarh",
+      "localName": "अलीगढ़",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "499",
+      "version": "5",
+      "name": "Alwar",
+      "localName": "",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "7",
+      "census2011Code": "00499"
+    },
+    {
+      "code": "547",
+      "version": "5",
+      "name": "Amber",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "10",
+      "census2011Code": "00547"
+    },
+    {
+      "code": "641",
+      "version": "7",
+      "name": "Amet",
+      "localName": "",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "3",
+      "census2011Code": "00641"
+    },
+    {
+      "code": "6061",
+      "version": "1",
+      "name": "Anandpuri",
+      "localName": "ANANDPURI",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7140",
+      "version": "7",
+      "name": "Andhi",
+      "localName": "आंधी",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "671",
+      "version": "2",
+      "name": "Anta",
+      "localName": "अन्‍ता",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "2",
+      "census2011Code": "00671"
+    },
+    {
+      "code": "7362",
+      "version": "10",
+      "name": "Antali",
+      "localName": "अंटाली",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "462",
+      "version": "10",
+      "name": "Anupgarh",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "6",
+      "census2011Code": "00462"
+    },
+    {
+      "code": "6659",
+      "version": "11",
+      "name": "Arain",
+      "localName": "Arain",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "700",
+      "version": "3",
+      "name": "Arnod",
+      "localName": "",
+      "districtCode": "629",
+      "districtName": "Pratapgarh",
+      "census2001Code": "13",
+      "census2011Code": "00700"
+    },
+    {
+      "code": "6922",
+      "version": "8",
+      "name": "Arthuna",
+      "localName": "अरथूना",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "627",
+      "version": "14",
+      "name": "Asind",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "1",
+      "census2011Code": "00627"
+    },
+    {
+      "code": "6055",
+      "version": "4",
+      "name": "Asnawar",
+      "localName": "ASNAWAR",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "647",
+      "version": "2",
+      "name": "Aspur",
+      "localName": "",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "2",
+      "census2011Code": "00647"
+    },
+    {
+      "code": "673",
+      "version": "2",
+      "name": "Atru",
+      "localName": "अटरु",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "4",
+      "census2011Code": "00673"
+    },
+    {
+      "code": "6903",
+      "version": "4",
+      "name": "Badgaon",
+      "localName": "बडगॉव",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6066",
+      "version": "7",
+      "name": "Badnor",
+      "localName": "Badnor",
+      "districtCode": "774",
+      "districtName": "Beawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "653",
+      "version": "5",
+      "name": "Bagidora",
+      "localName": "",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "4",
+      "census2011Code": "00653"
+    },
+    {
+      "code": "589",
+      "version": "4",
+      "name": "Bagora",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "5",
+      "census2011Code": "00589"
+    },
+    {
+      "code": "7134",
+      "version": "4",
+      "name": "Bahrawanda",
+      "localName": "बहरावण्डा",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7135",
+      "version": "5",
+      "name": "Baijupara",
+      "localName": "बैजूपाडा",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6913",
+      "version": "2",
+      "name": "Bajju",
+      "localName": "बज्जू",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6666",
+      "version": "1",
+      "name": "Bakani",
+      "localName": "Bakani",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6049",
+      "version": "11",
+      "name": "Balesar",
+      "localName": "Balesar",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7360",
+      "version": "3",
+      "name": "Balghat",
+      "localName": "बालघाट",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "605",
+      "version": "1",
+      "name": "Bali",
+      "localName": "",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "9",
+      "census2011Code": "00605"
+    },
+    {
+      "code": "527",
+      "version": "5",
+      "name": "Bamanwas",
+      "localName": "",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "2",
+      "census2011Code": "00527"
+    },
+    {
+      "code": "7210",
+      "version": "8",
+      "name": "Bandikui",
+      "localName": "बाँदीकुई",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "630",
+      "version": "4",
+      "name": "Banera",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "4",
+      "census2011Code": "00630"
+    },
+    {
+      "code": "500",
+      "version": "4",
+      "name": "Bansur",
+      "localName": "",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "8",
+      "census2011Code": "00500"
+    },
+    {
+      "code": "652",
+      "version": "6",
+      "name": "Banswara",
+      "localName": "",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "3",
+      "census2011Code": "00652"
+    },
+    {
+      "code": "6047",
+      "version": "10",
+      "name": "Baori",
+      "localName": "Baori",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6048",
+      "version": "50",
+      "name": "Bap",
+      "localName": "Bap",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6916",
+      "version": "9",
+      "name": "Bapini",
+      "localName": "बापिणी",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "672",
+      "version": "1",
+      "name": "Baran",
+      "localName": "बारां",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "3",
+      "census2011Code": "00672"
+    },
+    {
+      "code": "7361",
+      "version": "3",
+      "name": "Barapal",
+      "localName": "बारापाल",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "516",
+      "version": "1",
+      "name": "Bari",
+      "localName": "",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "2",
+      "census2011Code": "00516"
+    },
+    {
+      "code": "664",
+      "version": "1",
+      "name": "Bari Sadri",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "11",
+      "census2011Code": "00664"
+    },
+    {
+      "code": "582",
+      "version": "6",
+      "name": "Barmer",
+      "localName": "",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "6",
+      "census2011Code": "00582"
+    },
+    {
+      "code": "7131",
+      "version": "5",
+      "name": "Barmer Gramin",
+      "localName": "बाड़मेर ग्रामीण",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7224",
+      "version": "4",
+      "name": "Barnala",
+      "localName": "बरनाला",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7372",
+      "version": "2",
+      "name": "Basai Nawab",
+      "localName": "बसई नवाब",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "515",
+      "version": "2",
+      "name": "Baseri",
+      "localName": "",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "1",
+      "census2011Code": "00515"
+    },
+    {
+      "code": "549",
+      "version": "5",
+      "name": "Bassi",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "12",
+      "census2011Code": "00549"
+    },
+    {
+      "code": "7133",
+      "version": "2",
+      "name": "Bassi",
+      "localName": "बस्सी",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "533",
+      "version": "11",
+      "name": "Baswa",
+      "localName": "Baswa",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "1",
+      "census2011Code": "00533"
+    },
+    {
+      "code": "7363",
+      "version": "6",
+      "name": "Batadoo",
+      "localName": "बाटाडू",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "513",
+      "version": "1",
+      "name": "Bayana",
+      "localName": "",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "9",
+      "census2011Code": "00513"
+    },
+    {
+      "code": "578",
+      "version": "12",
+      "name": "Baytoo",
+      "localName": "",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "2",
+      "census2011Code": "00578"
+    },
+    {
+      "code": "609",
+      "version": "6",
+      "name": "Beawar",
+      "localName": "",
+      "districtCode": "774",
+      "districtName": "Beawar",
+      "census2001Code": "4",
+      "census2011Code": "00609"
+    },
+    {
+      "code": "657",
+      "version": "1",
+      "name": "Begun",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "3",
+      "census2011Code": "00657"
+    },
+    {
+      "code": "493",
+      "version": "4",
+      "name": "Behror",
+      "localName": "",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "1",
+      "census2011Code": "00493"
+    },
+    {
+      "code": "662",
+      "version": "1",
+      "name": "Bhadesar",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "8",
+      "census2011Code": "00662"
+    },
+    {
+      "code": "472",
+      "version": "1",
+      "name": "Bhadra",
+      "localName": "",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "7",
+      "census2011Code": "00472"
+    },
+    {
+      "code": "7217",
+      "version": "2",
+      "name": "Bhadrajun",
+      "localName": "भाद्राजून",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7373",
+      "version": "4",
+      "name": "Bhandarej",
+      "localName": "भाण्‍डारेज",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7209",
+      "version": "4",
+      "name": "Bhanipura",
+      "localName": "भानीपुरा",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6040",
+      "version": "6",
+      "name": "Bhaniyana",
+      "localName": "Bhaniyana",
+      "districtCode": "103",
+      "districtName": "Jaisalmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "511",
+      "version": "1",
+      "name": "Bharatpur",
+      "localName": "",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "7",
+      "census2011Code": "00511"
+    },
+    {
+      "code": "634",
+      "version": "8",
+      "name": "Bhilwara",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "8",
+      "census2011Code": "00634"
+    },
+    {
+      "code": "639",
+      "version": "3",
+      "name": "Bhim",
+      "localName": "",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "1",
+      "census2011Code": "00639"
+    },
+    {
+      "code": "612",
+      "version": "3",
+      "name": "Bhinay",
+      "localName": "",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "7",
+      "census2011Code": "00612"
+    },
+    {
+      "code": "6917",
+      "version": "9",
+      "name": "Bhinder",
+      "localName": "भिण्डर",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "588",
+      "version": "3",
+      "name": "Bhinmal",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "4",
+      "census2011Code": "00588"
+    },
+    {
+      "code": "569",
+      "version": "9",
+      "name": "Bhopalgarh",
+      "localName": "",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "3",
+      "census2011Code": "00569"
+    },
+    {
+      "code": "6057",
+      "version": "10",
+      "name": "Bhupalsagar",
+      "localName": "भूपालसागर",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6665",
+      "version": "5",
+      "name": "Bhusawar",
+      "localName": "Bhusawar",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6058",
+      "version": "17",
+      "name": "Bichhiwara",
+      "localName": "बिछीवाडा",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6426",
+      "version": "2",
+      "name": "Bidasar",
+      "localName": "बीदासर",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "638",
+      "version": "7",
+      "name": "Bijoliya",
+      "localName": "Bijoliya",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "12",
+      "census2011Code": "00638"
+    },
+    {
+      "code": "473",
+      "version": "1",
+      "name": "Bikaner",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "1",
+      "census2011Code": "00473"
+    },
+    {
+      "code": "573",
+      "version": "4",
+      "name": "Bilara",
+      "localName": "",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "7",
+      "census2011Code": "00573"
+    },
+    {
+      "code": "7218",
+      "version": "3",
+      "name": "Bissau",
+      "localName": "बिसाऊ",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "529",
+      "version": "5",
+      "name": "Bonli",
+      "localName": "",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "4",
+      "census2011Code": "00529"
+    },
+    {
+      "code": "489",
+      "version": "1",
+      "name": "Buhana",
+      "localName": "",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "3",
+      "census2011Code": "00489"
+    },
+    {
+      "code": "626",
+      "version": "9",
+      "name": "Bundi",
+      "localName": "",
+      "districtCode": "94",
+      "districtName": "Bundi",
+      "census2001Code": "0005",
+      "census2011Code": "00626"
+    },
+    {
+      "code": "550",
+      "version": "9",
+      "name": "Chaksu",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "13",
+      "census2011Code": "00550"
+    },
+    {
+      "code": "7374",
+      "version": "3",
+      "name": "Chamu",
+      "localName": "चामू",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "530",
+      "version": "1",
+      "name": "Chauth Ka Barwara",
+      "localName": "",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "5",
+      "census2011Code": "00530"
+    },
+    {
+      "code": "7375",
+      "version": "6",
+      "name": "Chechat",
+      "localName": "चेचट",
+      "districtCode": "109",
+      "districtName": "Kota",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "676",
+      "version": "1",
+      "name": "Chhabra",
+      "localName": "छ्बडा",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "7",
+      "census2011Code": "00676"
+    },
+    {
+      "code": "479",
+      "version": "6",
+      "name": "Chhatargarh",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "7",
+      "census2011Code": "00479"
+    },
+    {
+      "code": "677",
+      "version": "1",
+      "name": "Chhipabarod",
+      "localName": "छिपाबडौद",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "8",
+      "census2011Code": "00677"
+    },
+    {
+      "code": "7364",
+      "version": "2",
+      "name": "Chhoti Khatoo",
+      "localName": "छोटी खाटू",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "698",
+      "version": "1",
+      "name": "Chhoti Sadri",
+      "localName": "",
+      "districtCode": "629",
+      "districtName": "Pratapgarh",
+      "census2001Code": "10",
+      "census2011Code": "00698"
+    },
+    {
+      "code": "6042",
+      "version": "4",
+      "name": "Chhoti Sarwan",
+      "localName": "CHHOTI SARWAN",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6059",
+      "version": "4",
+      "name": "Chikhali",
+      "localName": "Chikhali",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "488",
+      "version": "2",
+      "name": "Chirawa",
+      "localName": "",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "2",
+      "census2011Code": "00488"
+    },
+    {
+      "code": "6046",
+      "version": "5",
+      "name": "Chitalwana",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "659",
+      "version": "4",
+      "name": "Chittorgarh",
+      "localName": "चित्तौड़गढ़",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "5",
+      "census2011Code": "00659"
+    },
+    {
+      "code": "584",
+      "version": "9",
+      "name": "Chohtan",
+      "localName": "",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "8",
+      "census2011Code": "00584"
+    },
+    {
+      "code": "541",
+      "version": "3",
+      "name": "Chomu",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "4",
+      "census2011Code": "00541"
+    },
+    {
+      "code": "484",
+      "version": "1",
+      "name": "Churu",
+      "localName": "",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "4",
+      "census2011Code": "00484"
+    },
+    {
+      "code": "6926",
+      "version": "3",
+      "name": "Dag",
+      "localName": "डग",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7151",
+      "version": "3",
+      "name": "Dalot",
+      "localName": "दलोट",
+      "districtCode": "629",
+      "districtName": "Pratapgarh",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "554",
+      "version": "1",
+      "name": "Danta Ramgarh",
+      "localName": "",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "4",
+      "census2011Code": "00554"
+    },
+    {
+      "code": "536",
+      "version": "7",
+      "name": "Dausa",
+      "localName": "",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "4",
+      "census2011Code": "00536"
+    },
+    {
+      "code": "6937",
+      "version": "8",
+      "name": "Dechoo",
+      "localName": "देचू",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "508",
+      "version": "4",
+      "name": "Deeg",
+      "localName": "",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "4",
+      "census2011Code": "00508"
+    },
+    {
+      "code": "563",
+      "version": "9",
+      "name": "Degana",
+      "localName": "",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "7",
+      "census2011Code": "00563"
+    },
+    {
+      "code": "7223",
+      "version": "3",
+      "name": "Deh",
+      "localName": "डेह",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7154",
+      "version": "2",
+      "name": "Deldar",
+      "localName": "देलदर",
+      "districtCode": "115",
+      "districtName": "Sirohi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6935",
+      "version": "6",
+      "name": "Delwara",
+      "localName": "देलवाड़ा",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "640",
+      "version": "4",
+      "name": "Deogarh",
+      "localName": "",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "2",
+      "census2011Code": "00640"
+    },
+    {
+      "code": "620",
+      "version": "6",
+      "name": "Deoli",
+      "localName": "",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "6",
+      "census2011Code": "00620"
+    },
+    {
+      "code": "603",
+      "version": "3",
+      "name": "Desuri",
+      "localName": "",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "7",
+      "census2011Code": "00603"
+    },
+    {
+      "code": "6912",
+      "version": "11",
+      "name": "Dhanau",
+      "localName": "धनाउ",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "696",
+      "version": "1",
+      "name": "Dhariawad",
+      "localName": "",
+      "districtCode": "629",
+      "districtName": "Pratapgarh",
+      "census2001Code": "7",
+      "census2011Code": "00696"
+    },
+    {
+      "code": "6387",
+      "version": "6",
+      "name": "Dhod",
+      "localName": "धोद",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "518",
+      "version": "6",
+      "name": "Dholpur",
+      "localName": "धौलपुर",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "4",
+      "census2011Code": "00518"
+    },
+    {
+      "code": "6050",
+      "version": "6",
+      "name": "Dhorimanna",
+      "localName": "",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "558",
+      "version": "5",
+      "name": "Didwana",
+      "localName": "",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "2",
+      "census2011Code": "00558"
+    },
+    {
+      "code": "666",
+      "version": "1",
+      "name": "Digod",
+      "localName": "",
+      "districtCode": "109",
+      "districtName": "Kota",
+      "census2001Code": "2",
+      "census2011Code": "00666"
+    },
+    {
+      "code": "6910",
+      "version": "7",
+      "name": "Dooni",
+      "localName": "दूनी",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7137",
+      "version": "6",
+      "name": "Dovda",
+      "localName": "दोवड़ा",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6027",
+      "version": "5",
+      "name": "Dudu",
+      "localName": "दूदू",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "646",
+      "version": "18",
+      "name": "Dungarpur",
+      "localName": "",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "1",
+      "census2011Code": "00646"
+    },
+    {
+      "code": "661",
+      "version": "1",
+      "name": "Dungla",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "7",
+      "census2011Code": "00661"
+    },
+    {
+      "code": "576",
+      "version": "1",
+      "name": "Fatehgarh",
+      "localName": "",
+      "districtCode": "103",
+      "districtName": "Jaisalmer",
+      "census2001Code": "3",
+      "census2011Code": "00576"
+    },
+    {
+      "code": "551",
+      "version": "4",
+      "name": "Fatehpur",
+      "localName": "",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "1",
+      "census2011Code": "00551"
+    },
+    {
+      "code": "6906",
+      "version": "4",
+      "name": "Gadraroad",
+      "localName": "गडरारोड",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7376",
+      "version": "4",
+      "name": "Gajsinghpur",
+      "localName": "गजसिंहपुर",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6060",
+      "version": "4",
+      "name": "Galiyakot",
+      "localName": "Galiyakot",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7138",
+      "version": "8",
+      "name": "Gamri Ahara",
+      "localName": "गामडी आहडा",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6610",
+      "version": "1",
+      "name": "Gangadtalai",
+      "localName": "Gangadtalai",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "458",
+      "version": "2",
+      "name": "Ganganagar",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "2",
+      "census2011Code": "00458"
+    },
+    {
+      "code": "526",
+      "version": "11",
+      "name": "Gangapur",
+      "localName": "",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "1",
+      "census2011Code": "00526"
+    },
+    {
+      "code": "684",
+      "version": "4",
+      "name": "Gangdhar",
+      "localName": "",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "7",
+      "census2011Code": "00684"
+    },
+    {
+      "code": "656",
+      "version": "1",
+      "name": "Gangrar",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "2",
+      "census2011Code": "00656"
+    },
+    {
+      "code": "6611",
+      "version": "6",
+      "name": "Ganora",
+      "localName": "गनोड़ा",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6392",
+      "version": "1",
+      "name": "Garhbor",
+      "localName": "गढबोर",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "651",
+      "version": "8",
+      "name": "Garhi",
+      "localName": "",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "2",
+      "census2011Code": "00651"
+    },
+    {
+      "code": "7221",
+      "version": "4",
+      "name": "Ghantiyali",
+      "localName": "घंटियाली",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "463",
+      "version": "10",
+      "name": "Gharsana",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "7",
+      "census2011Code": "00463"
+    },
+    {
+      "code": "7377",
+      "version": "2",
+      "name": "Ghasa",
+      "localName": "घासा",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "650",
+      "version": "6",
+      "name": "Ghatol",
+      "localName": "",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "1",
+      "census2011Code": "00650"
+    },
+    {
+      "code": "6907",
+      "version": "6",
+      "name": "Gida",
+      "localName": "गिडा",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "689",
+      "version": "10",
+      "name": "Girwa",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "5",
+      "census2011Code": "00689"
+    },
+    {
+      "code": "686",
+      "version": "9",
+      "name": "Gogunda",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "2",
+      "census2011Code": "00686"
+    },
+    {
+      "code": "6383",
+      "version": "6",
+      "name": "Govindgarh",
+      "localName": "गोविन्दगढ़",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7144",
+      "version": "6",
+      "name": "Gudhagorji",
+      "localName": "गुढागौड़जी",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "581",
+      "version": "9",
+      "name": "Gudha Malani",
+      "localName": "",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "5",
+      "census2011Code": "00581"
+    },
+    {
+      "code": "7378",
+      "version": "3",
+      "name": "Hadan",
+      "localName": "हदां",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6068",
+      "version": "8",
+      "name": "Hameergarh",
+      "localName": "Hameergarh",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "468",
+      "version": "1",
+      "name": "Hanumangarh",
+      "localName": "",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "3",
+      "census2011Code": "00468"
+    },
+    {
+      "code": "7208",
+      "version": "4",
+      "name": "Harsoli",
+      "localName": "हरसौली",
+      "districtCode": "770",
+      "districtName": "Khairthal-Tijara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "522",
+      "version": "7",
+      "name": "Hindaun",
+      "localName": "",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "3",
+      "census2011Code": "00522"
+    },
+    {
+      "code": "622",
+      "version": "2",
+      "name": "Hindoli",
+      "localName": "",
+      "districtCode": "94",
+      "districtName": "Bundi",
+      "census2001Code": "1",
+      "census2011Code": "00622"
+    },
+    {
+      "code": "628",
+      "version": "3",
+      "name": "Hurda",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "2",
+      "census2011Code": "00628"
+    },
+    {
+      "code": "624",
+      "version": "1",
+      "name": "Indragarh",
+      "localName": "",
+      "districtCode": "94",
+      "districtName": "Bundi",
+      "census2001Code": "3",
+      "census2011Code": "00624"
+    },
+    {
+      "code": "636",
+      "version": "3",
+      "name": "Jahazpur",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "10",
+      "census2011Code": "00636"
+    },
+    {
+      "code": "546",
+      "version": "3",
+      "name": "Jaipur",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "9",
+      "census2011Code": "00546"
+    },
+    {
+      "code": "574",
+      "version": "7",
+      "name": "Jaisalmer",
+      "localName": "",
+      "districtCode": "103",
+      "districtName": "Jaisalmer",
+      "census2001Code": "1",
+      "census2011Code": "00574"
+    },
+    {
+      "code": "597",
+      "version": "2",
+      "name": "Jaitaran",
+      "localName": "",
+      "districtCode": "774",
+      "districtName": "Beawar",
+      "census2001Code": "1",
+      "census2011Code": "00597"
+    },
+    {
+      "code": "587",
+      "version": "2",
+      "name": "Jalore",
+      "localName": "जालोर",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "3",
+      "census2011Code": "00587"
+    },
+    {
+      "code": "7379",
+      "version": "6",
+      "name": "Jalsu",
+      "localName": "जालसू",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "548",
+      "version": "8",
+      "name": "Jamwaramgarh",
+      "localName": "जमवारामगढ",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "11",
+      "census2011Code": "00548"
+    },
+    {
+      "code": "7380",
+      "version": "3",
+      "name": "Janoothar",
+      "localName": "जनूथर",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7365",
+      "version": "2",
+      "name": "Jasrasar",
+      "localName": "जसरासर",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6044",
+      "version": "1",
+      "name": "Jaswantpura",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "559",
+      "version": "4",
+      "name": "Jayal",
+      "localName": "",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "3",
+      "census2011Code": "00559"
+    },
+    {
+      "code": "688",
+      "version": "6",
+      "name": "Jhadol",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "4",
+      "census2011Code": "00688"
+    },
+    {
+      "code": "7229",
+      "version": "3",
+      "name": "Jhallara",
+      "localName": "झल्लारा",
+      "districtCode": "777",
+      "districtName": "Salumbar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "679",
+      "version": "6",
+      "name": "Jhalrapatan",
+      "localName": "",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "2",
+      "census2011Code": "00679"
+    },
+    {
+      "code": "7220",
+      "version": "4",
+      "name": "Jhanwar",
+      "localName": "झंवर",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6070",
+      "version": "5",
+      "name": "Jhonthripal",
+      "localName": "झोंथरीपाल",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "487",
+      "version": "7",
+      "name": "Jhunjhunu",
+      "localName": "झुंझुनू",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "1",
+      "census2011Code": "00487"
+    },
+    {
+      "code": "7141",
+      "version": "14",
+      "name": "Jobner",
+      "localName": "जोबनेर",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "570",
+      "version": "3",
+      "name": "Jodhpur",
+      "localName": "",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "4",
+      "census2011Code": "00570"
+    },
+    {
+      "code": "7381",
+      "version": "2",
+      "name": "Jurhara",
+      "localName": "जुरहरा",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7366",
+      "version": "6",
+      "name": "Kachhola",
+      "localName": "काछोला",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7215",
+      "version": "2",
+      "name": "Kalwar",
+      "localName": "कालवाड़",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7130",
+      "version": "3",
+      "name": "Kalyanpur",
+      "localName": "कल्याणपुर",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "506",
+      "version": "4",
+      "name": "Kaman",
+      "localName": "",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "2",
+      "census2011Code": "00506"
+    },
+    {
+      "code": "6929",
+      "version": "7",
+      "name": "Kanod",
+      "localName": "कानोड",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6054",
+      "version": "8",
+      "name": "Kanwas",
+      "localName": "Kanwas",
+      "districtCode": "109",
+      "districtName": "Kota",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "660",
+      "version": "11",
+      "name": "Kapasan",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "6",
+      "census2011Code": "00660"
+    },
+    {
+      "code": "457",
+      "version": "3",
+      "name": "Karanpur",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "1",
+      "census2011Code": "00457"
+    },
+    {
+      "code": "523",
+      "version": "13",
+      "name": "Karauli",
+      "localName": "",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "4",
+      "census2011Code": "00523"
+    },
+    {
+      "code": "6064",
+      "version": "4",
+      "name": "Karera",
+      "localName": "Kareda",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "504",
+      "version": "4",
+      "name": "Kathumar",
+      "localName": "",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "12",
+      "census2011Code": "00504"
+    },
+    {
+      "code": "614",
+      "version": "6",
+      "name": "Kekri",
+      "localName": "",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "9",
+      "census2011Code": "00614"
+    },
+    {
+      "code": "625",
+      "version": "2",
+      "name": "Keshoraipatan",
+      "localName": "",
+      "districtCode": "94",
+      "districtName": "Bundi",
+      "census2001Code": "4",
+      "census2011Code": "00625"
+    },
+    {
+      "code": "7207",
+      "version": "3",
+      "name": "Khairthal",
+      "localName": "खैरथल",
+      "districtCode": "770",
+      "districtName": "Khairthal-Tijara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "478",
+      "version": "5",
+      "name": "Khajuwala",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "6",
+      "census2011Code": "00478"
+    },
+    {
+      "code": "6393",
+      "version": "2",
+      "name": "Khamnor",
+      "localName": "खमनोर",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "532",
+      "version": "1",
+      "name": "Khandar",
+      "localName": "",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "7",
+      "census2011Code": "00532"
+    },
+    {
+      "code": "6384",
+      "version": "6",
+      "name": "Khandela",
+      "localName": "खण्डेला",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "678",
+      "version": "1",
+      "name": "Khanpur",
+      "localName": "",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "1",
+      "census2011Code": "00678"
+    },
+    {
+      "code": "561",
+      "version": "4",
+      "name": "Kheenvsar",
+      "localName": "",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "5",
+      "census2011Code": "00561"
+    },
+    {
+      "code": "695",
+      "version": "6",
+      "name": "Kherwara",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "10",
+      "census2011Code": "00695"
+    },
+    {
+      "code": "490",
+      "version": "5",
+      "name": "Khetri",
+      "localName": "",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "4",
+      "census2011Code": "00490"
+    },
+    {
+      "code": "674",
+      "version": "1",
+      "name": "Kishanganj",
+      "localName": "किशनगंज",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "5",
+      "census2011Code": "00674"
+    },
+    {
+      "code": "606",
+      "version": "13",
+      "name": "Kishangarh",
+      "localName": "",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "1",
+      "census2011Code": "00606"
+    },
+    {
+      "code": "497",
+      "version": "5",
+      "name": "Kishangarhbas",
+      "localName": "किशनगढ़बास",
+      "districtCode": "770",
+      "districtName": "Khairthal-Tijara",
+      "census2001Code": "5",
+      "census2011Code": "00497"
+    },
+    {
+      "code": "6026",
+      "version": "17",
+      "name": "Kishangarh Renwal",
+      "localName": "किशनगढ् रेनवाल",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "476",
+      "version": "5",
+      "name": "Kolayat",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "4",
+      "census2011Code": "00476"
+    },
+    {
+      "code": "495",
+      "version": "4",
+      "name": "Kotkasim",
+      "localName": "",
+      "districtCode": "770",
+      "districtName": "Khairthal-Tijara",
+      "census2001Code": "3",
+      "census2011Code": "00495"
+    },
+    {
+      "code": "6028",
+      "version": "8",
+      "name": "Kotkhawda",
+      "localName": "कोटखावदा",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "538",
+      "version": "8",
+      "name": "Kotputli",
+      "localName": "",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "1",
+      "census2011Code": "00538"
+    },
+    {
+      "code": "687",
+      "version": "1",
+      "name": "Kotra",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "3",
+      "census2011Code": "00687"
+    },
+    {
+      "code": "635",
+      "version": "5",
+      "name": "Kotri",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "9",
+      "census2011Code": "00635"
+    },
+    {
+      "code": "6065",
+      "version": "5",
+      "name": "Kuchaman City",
+      "localName": "KUCHAMAN CITY",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7219",
+      "version": "4",
+      "name": "Kudi Bhagtasni",
+      "localName": "कुड़ी भगतासनी",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "642",
+      "version": "3",
+      "name": "Kumbhalgarh",
+      "localName": "",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "4",
+      "census2011Code": "00642"
+    },
+    {
+      "code": "510",
+      "version": "8",
+      "name": "Kumher",
+      "localName": "",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "6",
+      "census2011Code": "00510"
+    },
+    {
+      "code": "7382",
+      "version": "2",
+      "name": "Kundal",
+      "localName": "कुण्‍डल",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6928",
+      "version": "6",
+      "name": "Kunwariya",
+      "localName": "कुंवारिया",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7156",
+      "version": "5",
+      "name": "Kurabar",
+      "localName": "कुराबड़",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "654",
+      "version": "2",
+      "name": "Kushalgarh",
+      "localName": "",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "5",
+      "census2011Code": "00654"
+    },
+    {
+      "code": "552",
+      "version": "10",
+      "name": "Lachhmangarh",
+      "localName": "",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "0002",
+      "census2011Code": "00552"
+    },
+    {
+      "code": "503",
+      "version": "7",
+      "name": "Lachhmangarh",
+      "localName": "",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "11",
+      "census2011Code": "00503"
+    },
+    {
+      "code": "557",
+      "version": "3",
+      "name": "Ladnu",
+      "localName": "",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "1",
+      "census2011Code": "00557"
+    },
+    {
+      "code": "667",
+      "version": "4",
+      "name": "Ladpura",
+      "localName": "",
+      "districtCode": "109",
+      "districtName": "Kota",
+      "census2001Code": "3",
+      "census2011Code": "00667"
+    },
+    {
+      "code": "537",
+      "version": "8",
+      "name": "Lalsot",
+      "localName": "",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "5",
+      "census2011Code": "00537"
+    },
+    {
+      "code": "691",
+      "version": "2",
+      "name": "Lasadiya",
+      "localName": "",
+      "districtCode": "777",
+      "districtName": "Salumbar",
+      "census2001Code": "0",
+      "census2011Code": "00691"
+    },
+    {
+      "code": "6909",
+      "version": "3",
+      "name": "Lawan",
+      "localName": "लवाण",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6391",
+      "version": "17",
+      "name": "Lohawat",
+      "localName": "लोहावत",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "572",
+      "version": "5",
+      "name": "Luni",
+      "localName": "",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "6",
+      "census2011Code": "00572"
+    },
+    {
+      "code": "475",
+      "version": "3",
+      "name": "Lunkaransar",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "3",
+      "census2011Code": "00475"
+    },
+    {
+      "code": "7139",
+      "version": "4",
+      "name": "Madhorajpura",
+      "localName": "माधोराजपुरा",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "534",
+      "version": "4",
+      "name": "Mahwa",
+      "localName": "",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "2",
+      "census2011Code": "00534"
+    },
+    {
+      "code": "565",
+      "version": "3",
+      "name": "Makrana",
+      "localName": "",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "9",
+      "census2011Code": "00565"
+    },
+    {
+      "code": "6382",
+      "version": "4",
+      "name": "Malakhera",
+      "localName": "मालाखेडा",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "528",
+      "version": "1",
+      "name": "Malarna Doongar",
+      "localName": "",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "3",
+      "census2011Code": "00528"
+    },
+    {
+      "code": "615",
+      "version": "2",
+      "name": "Malpura",
+      "localName": "",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "1",
+      "census2011Code": "00615"
+    },
+    {
+      "code": "6370",
+      "version": "5",
+      "name": "Malsisar",
+      "localName": "मलसीसर",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "631",
+      "version": "11",
+      "name": "Mandal",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "5",
+      "census2011Code": "00631"
+    },
+    {
+      "code": "637",
+      "version": "6",
+      "name": "Mandalgarh",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "11",
+      "census2011Code": "00637"
+    },
+    {
+      "code": "7145",
+      "version": "7",
+      "name": "Mandawa",
+      "localName": "मण्डावा",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6914",
+      "version": "6",
+      "name": "Mandawar",
+      "localName": "मण्डावर",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7383",
+      "version": "2",
+      "name": "Mandhan",
+      "localName": "मांढण",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "524",
+      "version": "2",
+      "name": "Mandrayal",
+      "localName": "Mandrayal",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "5",
+      "census2011Code": "00524"
+    },
+    {
+      "code": "670",
+      "version": "1",
+      "name": "Mangrol",
+      "localName": "मांगरोल",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "1",
+      "census2011Code": "00670"
+    },
+    {
+      "code": "6933",
+      "version": "5",
+      "name": "Maniya",
+      "localName": "मनियां",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "681",
+      "version": "1",
+      "name": "Manohar Thana",
+      "localName": "",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "4",
+      "census2011Code": "00681"
+    },
+    {
+      "code": "602",
+      "version": "1",
+      "name": "Marwar Junction",
+      "localName": "",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "6",
+      "census2011Code": "00602"
+    },
+    {
+      "code": "6379",
+      "version": "12",
+      "name": "Masalpur",
+      "localName": "मासलपुर",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "610",
+      "version": "7",
+      "name": "Masuda",
+      "localName": "",
+      "districtCode": "774",
+      "districtName": "Beawar",
+      "census2001Code": "5",
+      "census2011Code": "00610"
+    },
+    {
+      "code": "7222",
+      "version": "3",
+      "name": "Maulasar",
+      "localName": "मौलासर",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "543",
+      "version": "7",
+      "name": "Mauzamabad",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "0006",
+      "census2011Code": "00543"
+    },
+    {
+      "code": "685",
+      "version": "6",
+      "name": "Mavli",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "1",
+      "census2011Code": "00685"
+    },
+    {
+      "code": "562",
+      "version": "5",
+      "name": "Merta",
+      "localName": "",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "6",
+      "census2011Code": "00562"
+    },
+    {
+      "code": "7152",
+      "version": "4",
+      "name": "Mitrapura",
+      "localName": "मित्रपुरा",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "494",
+      "version": "3",
+      "name": "Mundawar",
+      "localName": "मुण्डावर",
+      "districtCode": "770",
+      "districtName": "Khairthal-Tijara",
+      "census2001Code": "2",
+      "census2011Code": "00494"
+    },
+    {
+      "code": "6378",
+      "version": "2",
+      "name": "Mundwa",
+      "localName": "मुंडवा",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "509",
+      "version": "1",
+      "name": "Nadbai",
+      "localName": "",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "5",
+      "census2011Code": "00509"
+    },
+    {
+      "code": "521",
+      "version": "3",
+      "name": "Nadoti",
+      "localName": "",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "2",
+      "census2011Code": "00521"
+    },
+    {
+      "code": "507",
+      "version": "6",
+      "name": "Nagar",
+      "localName": "",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "3",
+      "census2011Code": "00507"
+    },
+    {
+      "code": "7155",
+      "version": "12",
+      "name": "Nagarfort",
+      "localName": "नगरफोर्ट",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "560",
+      "version": "6",
+      "name": "Nagaur",
+      "localName": "",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "4",
+      "census2011Code": "00560"
+    },
+    {
+      "code": "623",
+      "version": "1",
+      "name": "Nainwa",
+      "localName": "",
+      "districtCode": "94",
+      "districtName": "Bundi",
+      "census2001Code": "2",
+      "census2011Code": "00623"
+    },
+    {
+      "code": "6053",
+      "version": "6",
+      "name": "Nangal Rajawatan",
+      "localName": "",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6936",
+      "version": "6",
+      "name": "Narayanpur",
+      "localName": "नारायणपुर",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "611",
+      "version": "3",
+      "name": "Nasirabad",
+      "localName": "",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "6",
+      "census2011Code": "00611"
+    },
+    {
+      "code": "645",
+      "version": "8",
+      "name": "Nathdwara",
+      "localName": "",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "7",
+      "census2011Code": "00645"
+    },
+    {
+      "code": "7129",
+      "version": "3",
+      "name": "Nauganwa",
+      "localName": "नौगांवा",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "566",
+      "version": "7",
+      "name": "Nawa",
+      "localName": "",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "10",
+      "census2011Code": "00566"
+    },
+    {
+      "code": "491",
+      "version": "1",
+      "name": "Nawalgarh",
+      "localName": "",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "5",
+      "census2011Code": "00491"
+    },
+    {
+      "code": "7157",
+      "version": "4",
+      "name": "Nayagaon",
+      "localName": "नयागांव",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7153",
+      "version": "10",
+      "name": "Nechhwa",
+      "localName": "नेछवा",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "556",
+      "version": "8",
+      "name": "Neem Ka Thana",
+      "localName": "नीम का थाना",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "6",
+      "census2011Code": "00556"
+    },
+    {
+      "code": "6380",
+      "version": "6",
+      "name": "Neemrana",
+      "localName": "नीमराणा",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "663",
+      "version": "1",
+      "name": "Nimbahera",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "9",
+      "census2011Code": "00663"
+    },
+    {
+      "code": "7211",
+      "version": "5",
+      "name": "Nirjharna",
+      "localName": "निरर्झना",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "617",
+      "version": "2",
+      "name": "Niwai",
+      "localName": "",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "3",
+      "census2011Code": "00617"
+    },
+    {
+      "code": "471",
+      "version": "1",
+      "name": "Nohar",
+      "localName": "",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "6",
+      "census2011Code": "00471"
+    },
+    {
+      "code": "477",
+      "version": "3",
+      "name": "Nokha",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "5",
+      "census2011Code": "00477"
+    },
+    {
+      "code": "7132",
+      "version": "8",
+      "name": "Nokhra",
+      "localName": "नौखड़ा",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7384",
+      "version": "5",
+      "name": "Obri",
+      "localName": "ओबरी",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "568",
+      "version": "12",
+      "name": "Osian",
+      "localName": "",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "2",
+      "census2011Code": "00568"
+    },
+    {
+      "code": "579",
+      "version": "12",
+      "name": "Pachpadra",
+      "localName": "पचपदरा",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "3",
+      "census2011Code": "00579"
+    },
+    {
+      "code": "682",
+      "version": "1",
+      "name": "Pachpahar",
+      "localName": "",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "5",
+      "census2011Code": "00682"
+    },
+    {
+      "code": "460",
+      "version": "3",
+      "name": "Padampur",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "4",
+      "census2011Code": "00460"
+    },
+    {
+      "code": "505",
+      "version": "2",
+      "name": "Pahari",
+      "localName": "",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "1",
+      "census2011Code": "00505"
+    },
+    {
+      "code": "7212",
+      "version": "3",
+      "name": "Paldewal",
+      "localName": "पालदेवल",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "601",
+      "version": "8",
+      "name": "Pali",
+      "localName": "",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "5",
+      "census2011Code": "00601"
+    },
+    {
+      "code": "7213",
+      "version": "2",
+      "name": "Pallu",
+      "localName": "पल्लू",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6924",
+      "version": "7",
+      "name": "Paota",
+      "localName": "पावटा",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7367",
+      "version": "2",
+      "name": "Paparda",
+      "localName": "पापड़दा",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "564",
+      "version": "3",
+      "name": "Parbatsar",
+      "localName": "",
+      "districtCode": "768",
+      "districtName": "Didwana-Kuchaman",
+      "census2001Code": "8",
+      "census2011Code": "00564"
+    },
+    {
+      "code": "7227",
+      "version": "7",
+      "name": "Patan",
+      "localName": "पाटन",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7368",
+      "version": "6",
+      "name": "Patodi",
+      "localName": "पाटोदी",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "697",
+      "version": "5",
+      "name": "Peepalkhoont",
+      "localName": "",
+      "districtCode": "629",
+      "districtName": "Pratapgarh",
+      "census2001Code": "0",
+      "census2011Code": "00697"
+    },
+    {
+      "code": "616",
+      "version": "1",
+      "name": "Peeplu",
+      "localName": "",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "2",
+      "census2011Code": "00616"
+    },
+    {
+      "code": "608",
+      "version": "2",
+      "name": "Peesangan",
+      "localName": "",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "3",
+      "census2011Code": "00608"
+    },
+    {
+      "code": "544",
+      "version": "5",
+      "name": "Phagi",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "7",
+      "census2011Code": "00544"
+    },
+    {
+      "code": "7385",
+      "version": "6",
+      "name": "Phalasiyan",
+      "localName": "फलासियां",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "567",
+      "version": "15",
+      "name": "Phalodi",
+      "localName": "",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "1",
+      "census2011Code": "00567"
+    },
+    {
+      "code": "7214",
+      "version": "4",
+      "name": "Phalsoond",
+      "localName": "फलसूण्ड",
+      "districtCode": "103",
+      "districtName": "Jaisalmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6067",
+      "version": "5",
+      "name": "Phooliya Kalan",
+      "localName": "Phooliya Kalan",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "542",
+      "version": "17",
+      "name": "Phulera (Hq.Sambhar)",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "5",
+      "census2011Code": "00542"
+    },
+    {
+      "code": "7386",
+      "version": "4",
+      "name": "Pilani",
+      "localName": "पिलानी",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "469",
+      "version": "1",
+      "name": "Pilibanga",
+      "localName": "",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "4",
+      "census2011Code": "00469"
+    },
+    {
+      "code": "594",
+      "version": "1",
+      "name": "Pindwara",
+      "localName": "",
+      "districtCode": "115",
+      "districtName": "Sirohi",
+      "census2001Code": "3",
+      "census2011Code": "00594"
+    },
+    {
+      "code": "665",
+      "version": "2",
+      "name": "Pipalda",
+      "localName": "",
+      "districtCode": "109",
+      "districtName": "Kota",
+      "census2001Code": "1",
+      "census2011Code": "00665"
+    },
+    {
+      "code": "6051",
+      "version": "8",
+      "name": "Pipar Shahar",
+      "localName": "",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "683",
+      "version": "6",
+      "name": "Pirawa",
+      "localName": "",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "6",
+      "census2011Code": "00683"
+    },
+    {
+      "code": "575",
+      "version": "36",
+      "name": "Pokaran",
+      "localName": "",
+      "districtCode": "103",
+      "districtName": "Jaisalmer",
+      "census2001Code": "2",
+      "census2011Code": "00575"
+    },
+    {
+      "code": "474",
+      "version": "5",
+      "name": "Poogal",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "2",
+      "census2011Code": "00474"
+    },
+    {
+      "code": "7387",
+      "version": "2",
+      "name": "Pratapgarh",
+      "localName": "प्रतापगढ़",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "699",
+      "version": "1",
+      "name": "Pratapgarh",
+      "localName": "",
+      "districtCode": "629",
+      "districtName": "Pratapgarh",
+      "census2001Code": "12",
+      "census2011Code": "00699"
+    },
+    {
+      "code": "6655",
+      "version": "2",
+      "name": "Pushkar",
+      "localName": "Pushkar",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6932",
+      "version": "2",
+      "name": "Rahuwas",
+      "localName": "राहुवास",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "644",
+      "version": "3",
+      "name": "Railmagra",
+      "localName": "",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "6",
+      "census2011Code": "00644"
+    },
+    {
+      "code": "632",
+      "version": "1",
+      "name": "Raipur",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "0006",
+      "census2011Code": "00632"
+    },
+    {
+      "code": "6925",
+      "version": "3",
+      "name": "Raipur",
+      "localName": "रायपुर",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "598",
+      "version": "2",
+      "name": "Raipur",
+      "localName": "",
+      "districtCode": "774",
+      "districtName": "Beawar",
+      "census2001Code": "2",
+      "census2011Code": "00598"
+    },
+    {
+      "code": "461",
+      "version": "6",
+      "name": "Raisinghnagar",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "5",
+      "census2011Code": "00461"
+    },
+    {
+      "code": "7359",
+      "version": "6",
+      "name": "Raithal",
+      "localName": "रायथल",
+      "districtCode": "94",
+      "districtName": "Bundi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "519",
+      "version": "1",
+      "name": "Rajakhera",
+      "localName": "",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "5",
+      "census2011Code": "00519"
+    },
+    {
+      "code": "7388",
+      "version": "4",
+      "name": "Rajaldesar",
+      "localName": "राजलदेसर",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "482",
+      "version": "7",
+      "name": "Rajgarh",
+      "localName": "",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "2",
+      "census2011Code": "00482"
+    },
+    {
+      "code": "502",
+      "version": "8",
+      "name": "Rajgarh",
+      "localName": "",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "0010",
+      "census2011Code": "00502"
+    },
+    {
+      "code": "643",
+      "version": "8",
+      "name": "Rajsamand",
+      "localName": "",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "5",
+      "census2011Code": "00643"
+    },
+    {
+      "code": "668",
+      "version": "6",
+      "name": "Ramganj Mandi",
+      "localName": "",
+      "districtCode": "109",
+      "districtName": "Kota",
+      "census2001Code": "4",
+      "census2011Code": "00668"
+    },
+    {
+      "code": "7216",
+      "version": "3",
+      "name": "Ramgarh",
+      "localName": "रामगढ़",
+      "districtCode": "103",
+      "districtName": "Jaisalmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "498",
+      "version": "4",
+      "name": "Ramgarh",
+      "localName": "",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "6",
+      "census2011Code": "00498"
+    },
+    {
+      "code": "6908",
+      "version": "6",
+      "name": "Ramgarh Pachwara",
+      "localName": "रामगढ पचवारा",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6388",
+      "version": "4",
+      "name": "Ramgarh Shekhawati",
+      "localName": "रामगढ़ शेखावाटी",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7391",
+      "version": "5",
+      "name": "Rampura Dabri",
+      "localName": "रामपुरा डाबड़ी",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "583",
+      "version": "2",
+      "name": "Ramsar",
+      "localName": "",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "7",
+      "census2011Code": "00583"
+    },
+    {
+      "code": "6898",
+      "version": "6",
+      "name": "Rani",
+      "localName": "रानी",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "591",
+      "version": "3",
+      "name": "Raniwara",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "7",
+      "census2011Code": "00591"
+    },
+    {
+      "code": "7369",
+      "version": "2",
+      "name": "Rarah",
+      "localName": "रारह",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "655",
+      "version": "1",
+      "name": "Rashmi",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "1",
+      "census2011Code": "00655"
+    },
+    {
+      "code": "485",
+      "version": "4",
+      "name": "Ratangarh",
+      "localName": "",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "6",
+      "census2011Code": "00485"
+    },
+    {
+      "code": "658",
+      "version": "2",
+      "name": "Rawatbhata",
+      "localName": "",
+      "districtCode": "95",
+      "districtName": "Chittorgarh",
+      "census2001Code": "4",
+      "census2011Code": "00658"
+    },
+    {
+      "code": "470",
+      "version": "3",
+      "name": "Rawatsar",
+      "localName": "",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "5",
+      "census2011Code": "00470"
+    },
+    {
+      "code": "6915",
+      "version": "8",
+      "name": "Rawla",
+      "localName": "रावला",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7226",
+      "version": "5",
+      "name": "Reengus",
+      "localName": "रींगस",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6381",
+      "version": "5",
+      "name": "Reni",
+      "localName": "रैणी",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "596",
+      "version": "2",
+      "name": "Reodar",
+      "localName": "",
+      "districtCode": "115",
+      "districtName": "Sirohi",
+      "census2001Code": "5",
+      "census2011Code": "00596"
+    },
+    {
+      "code": "694",
+      "version": "5",
+      "name": "Rishabhdeo",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "0",
+      "census2011Code": "00694"
+    },
+    {
+      "code": "6069",
+      "version": "5",
+      "name": "Riyan Bari",
+      "localName": "रियांबड़ी",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "600",
+      "version": "4",
+      "name": "Rohat",
+      "localName": "",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "4",
+      "census2011Code": "00600"
+    },
+    {
+      "code": "6657",
+      "version": "10",
+      "name": "Roopangarh",
+      "localName": "Roopangarh",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7389",
+      "version": "2",
+      "name": "Rudawal",
+      "localName": "रूदावल",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "514",
+      "version": "5",
+      "name": "Rupbas",
+      "localName": "",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "10",
+      "census2011Code": "00514"
+    },
+    {
+      "code": "6062",
+      "version": "1",
+      "name": "Sabla",
+      "localName": "Sabla",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "459",
+      "version": "2",
+      "name": "Sadulshahar",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "3",
+      "census2011Code": "00459"
+    },
+    {
+      "code": "648",
+      "version": "7",
+      "name": "Sagwara",
+      "localName": "",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "3",
+      "census2011Code": "00648"
+    },
+    {
+      "code": "633",
+      "version": "3",
+      "name": "Sahara",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "7",
+      "census2011Code": "00633"
+    },
+    {
+      "code": "7136",
+      "version": "4",
+      "name": "Sainthal",
+      "localName": "सैंथल",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6043",
+      "version": "1",
+      "name": "Sajjangarh",
+      "localName": "SAJJANGARH",
+      "districtCode": "88",
+      "districtName": "Banswara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "692",
+      "version": "6",
+      "name": "Salumbar",
+      "localName": "",
+      "districtCode": "777",
+      "districtName": "Salumbar",
+      "census2001Code": "8",
+      "census2011Code": "00692"
+    },
+    {
+      "code": "7143",
+      "version": "6",
+      "name": "Sam",
+      "localName": "सम",
+      "districtCode": "103",
+      "districtName": "Jaisalmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6904",
+      "version": "3",
+      "name": "Samdari",
+      "localName": "समदड़ी",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "590",
+      "version": "6",
+      "name": "Sanchore",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "6",
+      "census2011Code": "00590"
+    },
+    {
+      "code": "545",
+      "version": "1",
+      "name": "Sanganer",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "8",
+      "census2011Code": "00545"
+    },
+    {
+      "code": "466",
+      "version": "1",
+      "name": "Sangaria",
+      "localName": "",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "1",
+      "census2011Code": "00466"
+    },
+    {
+      "code": "669",
+      "version": "8",
+      "name": "Sangod",
+      "localName": "",
+      "districtCode": "109",
+      "districtName": "Kota",
+      "census2001Code": "5",
+      "census2011Code": "00669"
+    },
+    {
+      "code": "7149",
+      "version": "6",
+      "name": "Sanjoo",
+      "localName": "सांजू",
+      "districtCode": "110",
+      "districtName": "Nagaur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "525",
+      "version": "1",
+      "name": "Sapotra",
+      "localName": "",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "6",
+      "census2011Code": "00525"
+    },
+    {
+      "code": "693",
+      "version": "6",
+      "name": "Sarada",
+      "localName": "",
+      "districtCode": "777",
+      "districtName": "Salumbar",
+      "census2001Code": "9",
+      "census2011Code": "00693"
+    },
+    {
+      "code": "7370",
+      "version": "2",
+      "name": "Sardargarh",
+      "localName": "सरदारगढ़",
+      "districtCode": "112",
+      "districtName": "Rajsamand",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "483",
+      "version": "5",
+      "name": "Sardarshahar",
+      "localName": "",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "3",
+      "census2011Code": "00483"
+    },
+    {
+      "code": "6389",
+      "version": "2",
+      "name": "Sarmathura",
+      "localName": "सर्माथुरा",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "613",
+      "version": "8",
+      "name": "Sarwar",
+      "localName": "",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "8",
+      "census2011Code": "00613"
+    },
+    {
+      "code": "531",
+      "version": "1",
+      "name": "Sawai Madhopur",
+      "localName": "",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "6",
+      "census2011Code": "00531"
+    },
+    {
+      "code": "6660",
+      "version": "6",
+      "name": "Sawar",
+      "localName": "Sawar",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "585",
+      "version": "1",
+      "name": "Sayla",
+      "localName": "",
+      "districtCode": "104",
+      "districtName": "Jalore",
+      "census2001Code": "1",
+      "census2011Code": "00585"
+    },
+    {
+      "code": "7390",
+      "version": "7",
+      "name": "Sayra",
+      "localName": "सायरा",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6045",
+      "version": "8",
+      "name": "Sedwa",
+      "localName": "",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6927",
+      "version": "22",
+      "name": "Sekhala",
+      "localName": "सेखाला",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6911",
+      "version": "7",
+      "name": "Semari",
+      "localName": "सेमारी",
+      "districtCode": "777",
+      "districtName": "Salumbar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "517",
+      "version": "3",
+      "name": "Sepau",
+      "localName": "",
+      "districtCode": "98",
+      "districtName": "Dholpur",
+      "census2001Code": "3",
+      "census2011Code": "00517"
+    },
+    {
+      "code": "7147",
+      "version": "3",
+      "name": "Setrawa",
+      "localName": "सेतरावा",
+      "districtCode": "772",
+      "districtName": "Phalodi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "675",
+      "version": "2",
+      "name": "Shahbad",
+      "localName": "शाहबाद",
+      "districtCode": "89",
+      "districtName": "Baran",
+      "census2001Code": "6",
+      "census2011Code": "00675"
+    },
+    {
+      "code": "629",
+      "version": "7",
+      "name": "Shahpura",
+      "localName": "",
+      "districtCode": "92",
+      "districtName": "Bhilwara",
+      "census2001Code": "3",
+      "census2011Code": "00629"
+    },
+    {
+      "code": "540",
+      "version": "4",
+      "name": "Shahpura",
+      "localName": "",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "3",
+      "census2011Code": "00540"
+    },
+    {
+      "code": "577",
+      "version": "5",
+      "name": "Sheo",
+      "localName": "",
+      "districtCode": "90",
+      "districtName": "Barmer",
+      "census2001Code": "1",
+      "census2011Code": "00577"
+    },
+    {
+      "code": "592",
+      "version": "1",
+      "name": "Sheoganj",
+      "localName": "",
+      "districtCode": "115",
+      "districtName": "Sirohi",
+      "census2001Code": "1",
+      "census2011Code": "00592"
+    },
+    {
+      "code": "571",
+      "version": "15",
+      "name": "Shergarh",
+      "localName": "",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "5",
+      "census2011Code": "00571"
+    },
+    {
+      "code": "555",
+      "version": "9",
+      "name": "Shrimadhopur",
+      "localName": "श्रीमाधोपुर",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "5",
+      "census2011Code": "00555"
+    },
+    {
+      "code": "7148",
+      "version": "2",
+      "name": "Shrimahaveer Ji",
+      "localName": "श्रीमहावीर जी",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6931",
+      "version": "6",
+      "name": "Sidhmukh",
+      "localName": "सिद्धमुख",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "553",
+      "version": "6",
+      "name": "Sikar",
+      "localName": "",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "3",
+      "census2011Code": "00553"
+    },
+    {
+      "code": "7228",
+      "version": "5",
+      "name": "Sikar Gramin",
+      "localName": "सीकर ग्रामीण",
+      "districtCode": "114",
+      "districtName": "Sikar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "535",
+      "version": "4",
+      "name": "Sikrai",
+      "localName": "",
+      "districtCode": "97",
+      "districtName": "Dausa",
+      "census2001Code": "3",
+      "census2011Code": "00535"
+    },
+    {
+      "code": "6930",
+      "version": "5",
+      "name": "Sikri",
+      "localName": "सीकरी",
+      "districtCode": "767",
+      "districtName": "Deeg",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "649",
+      "version": "10",
+      "name": "Simalwara",
+      "localName": "",
+      "districtCode": "99",
+      "districtName": "Dungarpur",
+      "census2001Code": "4",
+      "census2011Code": "00649"
+    },
+    {
+      "code": "6052",
+      "version": "4",
+      "name": "Sindhari",
+      "localName": "",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "593",
+      "version": "3",
+      "name": "Sirohi",
+      "localName": "",
+      "districtCode": "115",
+      "districtName": "Sirohi",
+      "census2001Code": "2",
+      "census2011Code": "00593"
+    },
+    {
+      "code": "580",
+      "version": "4",
+      "name": "Siwana",
+      "localName": "",
+      "districtCode": "775",
+      "districtName": "Balotra",
+      "census2001Code": "4",
+      "census2011Code": "00580"
+    },
+    {
+      "code": "599",
+      "version": "1",
+      "name": "Sojat",
+      "localName": "",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "3",
+      "census2011Code": "00599"
+    },
+    {
+      "code": "480",
+      "version": "1",
+      "name": "Sridungargarh",
+      "localName": "",
+      "districtCode": "93",
+      "districtName": "Bikaner",
+      "census2001Code": "0",
+      "census2011Code": "00480"
+    },
+    {
+      "code": "7150",
+      "version": "3",
+      "name": "Suhagpura",
+      "localName": "सुहागपुरा",
+      "districtCode": "629",
+      "districtName": "Pratapgarh",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "486",
+      "version": "3",
+      "name": "Sujangarh",
+      "localName": "",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "7",
+      "census2011Code": "00486"
+    },
+    {
+      "code": "604",
+      "version": "1",
+      "name": "Sumerpur",
+      "localName": "",
+      "districtCode": "111",
+      "districtName": "Pali",
+      "census2001Code": "8",
+      "census2011Code": "00604"
+    },
+    {
+      "code": "6667",
+      "version": "5",
+      "name": "Sunel",
+      "localName": "Sunel",
+      "districtCode": "105",
+      "districtName": "Jhalawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6371",
+      "version": "5",
+      "name": "Surajgarh",
+      "localName": "सुरजगढ़",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "465",
+      "version": "6",
+      "name": "Suratgarh",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "9",
+      "census2011Code": "00465"
+    },
+    {
+      "code": "6934",
+      "version": "2",
+      "name": "Suroth",
+      "localName": "सूरौठ",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7225",
+      "version": "7",
+      "name": "Talawara",
+      "localName": "तलावड़ा",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6033",
+      "version": "9",
+      "name": "Talera",
+      "localName": "TALERA",
+      "districtCode": "94",
+      "districtName": "Bundi",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6658",
+      "version": "7",
+      "name": "Tantoti",
+      "localName": "टांटोटी",
+      "districtCode": "86",
+      "districtName": "Ajmer",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7128",
+      "version": "6",
+      "name": "Tapukara",
+      "localName": "टपूकड़ा",
+      "districtCode": "770",
+      "districtName": "Khairthal-Tijara",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "481",
+      "version": "1",
+      "name": "Taranagar",
+      "localName": "",
+      "districtCode": "96",
+      "districtName": "Churu",
+      "census2001Code": "1",
+      "census2011Code": "00481"
+    },
+    {
+      "code": "6656",
+      "version": "5",
+      "name": "Tatgarh",
+      "localName": "Tatgarh",
+      "districtCode": "774",
+      "districtName": "Beawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "7113",
+      "version": "3",
+      "name": "Tehla",
+      "localName": "टहला",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "501",
+      "version": "9",
+      "name": "Thanagazi",
+      "localName": "",
+      "districtCode": "87",
+      "districtName": "Alwar",
+      "census2001Code": "9",
+      "census2011Code": "00501"
+    },
+    {
+      "code": "467",
+      "version": "2",
+      "name": "Tibbi",
+      "localName": "टिब्बी",
+      "districtCode": "101",
+      "districtName": "Hanumangarh",
+      "census2001Code": "2",
+      "census2011Code": "00467"
+    },
+    {
+      "code": "496",
+      "version": "7",
+      "name": "Tijara",
+      "localName": "",
+      "districtCode": "770",
+      "districtName": "Khairthal-Tijara",
+      "census2001Code": "4",
+      "census2011Code": "00496"
+    },
+    {
+      "code": "6390",
+      "version": "8",
+      "name": "Tinwari",
+      "localName": "तिन्वारी",
+      "districtCode": "107",
+      "districtName": "Jodhpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "520",
+      "version": "7",
+      "name": "Todabhim",
+      "localName": "",
+      "districtCode": "108",
+      "districtName": "Karauli",
+      "census2001Code": "1",
+      "census2011Code": "00520"
+    },
+    {
+      "code": "619",
+      "version": "5",
+      "name": "Todaraisingh",
+      "localName": "",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "5",
+      "census2011Code": "00619"
+    },
+    {
+      "code": "618",
+      "version": "2",
+      "name": "Tonk",
+      "localName": "",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "4",
+      "census2011Code": "00618"
+    },
+    {
+      "code": "7142",
+      "version": "5",
+      "name": "Toonga",
+      "localName": "तूंगा",
+      "districtCode": "102",
+      "districtName": "Jaipur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "6923",
+      "version": "3",
+      "name": "Uchchain",
+      "localName": "उच्चैन",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "492",
+      "version": "7",
+      "name": "Udaipurwati",
+      "localName": "",
+      "districtCode": "106",
+      "districtName": "Jhunjhunu",
+      "census2001Code": "6",
+      "census2011Code": "00492"
+    },
+    {
+      "code": "621",
+      "version": "11",
+      "name": "Uniara",
+      "localName": "",
+      "districtCode": "116",
+      "districtName": "Tonk",
+      "census2001Code": "7",
+      "census2011Code": "00621"
+    },
+    {
+      "code": "690",
+      "version": "8",
+      "name": "Vallabhnagar",
+      "localName": "",
+      "districtCode": "117",
+      "districtName": "Udaipur",
+      "census2001Code": "6",
+      "census2011Code": "00690"
+    },
+    {
+      "code": "464",
+      "version": "14",
+      "name": "Vijainagar",
+      "localName": "",
+      "districtCode": "100",
+      "districtName": "Ganganagar",
+      "census2001Code": "8",
+      "census2011Code": "00464"
+    },
+    {
+      "code": "6661",
+      "version": "5",
+      "name": "Vijainagar",
+      "localName": "Vijaynagar",
+      "districtCode": "774",
+      "districtName": "Beawar",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "539",
+      "version": "3",
+      "name": "Viratnagar",
+      "localName": "",
+      "districtCode": "782",
+      "districtName": "Kotputli-Behror",
+      "census2001Code": "2",
+      "census2011Code": "00539"
+    },
+    {
+      "code": "6386",
+      "version": "5",
+      "name": "Wazeerpur",
+      "localName": "वजीरपुर",
+      "districtCode": "113",
+      "districtName": "Sawai Madhopur",
+      "census2001Code": "",
+      "census2011Code": "00000"
+    },
+    {
+      "code": "512",
+      "version": "6",
+      "name": "Weir",
+      "localName": "",
+      "districtCode": "91",
+      "districtName": "Bharatpur",
+      "census2001Code": "8",
+      "census2011Code": "00512"
+    }
+  ]
+}
