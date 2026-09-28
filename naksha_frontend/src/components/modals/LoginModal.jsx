@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Lock, Mail } from 'lucide-react';
+import { X } from 'lucide-react';
 
 export default function LoginModal({ isOpen, onClose, onLoginSuccess }) {
   if (!isOpen) return null;

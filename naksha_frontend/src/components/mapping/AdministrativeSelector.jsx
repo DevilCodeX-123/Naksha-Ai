@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 
 const LGD_FILE =
   '/data/administrative/rajasthan/hierarchy.json';
-const DEFAULT_COUNTRY = 'India';
+// const DEFAULT_COUNTRY = 'India';
 
 function formatSelectionSummary(selection) {
   if (!selection) {

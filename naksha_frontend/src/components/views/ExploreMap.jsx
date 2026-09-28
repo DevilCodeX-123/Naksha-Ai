@@ -16,7 +16,6 @@ import {
   MapPinned,
   SquareMousePointer,
   FileText,
-  LocateFixed,
 } from 'lucide-react';
 
 import 'maplibre-gl/dist/maplibre-gl.css';
@@ -310,6 +309,7 @@ function YourWorkPanel({
     );
   }
 
+  // eslint-disable-next-line no-unused-vars
   function saveCurrentPolygon() {
     if (polygonPoints.length < 3) {
       alert(
@@ -353,6 +353,7 @@ function YourWorkPanel({
     setPolygonName('');
   }
 
+  // eslint-disable-next-line no-unused-vars
   function deletePolygon(id) {
     const next =
       savedPolygons.filter(
@@ -1735,6 +1736,7 @@ const [
         initialSelection
       );
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [
     initialSelection,
     showAdministrativeSelector,
