@@ -1,0 +1,3 @@
+revenue_id,parcel_id,khasra_number,khata_number,khatedar_name,tehsil,patwari_circle,land_classification,area_bigha,jamabandi_year,tax_status
+REV-101,P-101,101/2,K-45,Ramesh Chand Sharma,Jaipur,Circle-12,Residential,0.55,2026,Paid
+REV-102,P-102,101/3,K-46,Suresh Traders (Partnership),Jaipur,Circle-12,Commercial,0.55,2026,Due

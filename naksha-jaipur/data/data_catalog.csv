@@ -1,0 +1,23 @@
+dataset_id,dataset_name,source_type,origin,department,format,geometry_type,CRS,survey_date,resolution,coverage,status
+DS_01,Jaipur_Ward_12_Drone_Orthophoto,Drone imagery,DERIVED,Surveys and Land Records,GeoTIFF,Raster,EPSG:32643,2025-11-10,0.1m,Ward 12 AOI,Ready
+DS_02,Jaipur_ORI_Mosaic,ORI,DERIVED,State Remote Sensing Application Centre,GeoTIFF,Raster,EPSG:32643,2025-10-15,0.25m,Ward 12 AOI,Ready
+DS_03,Jaipur_Ward_12_DSM_DTM,DSM/DTM,DERIVED,Surveys and Land Records,GeoTIFF,Raster,EPSG:32643,2025-11-10,0.5m,Ward 12 AOI,Ready
+DS_04,Jaipur_Cadastral_Parcels,Existing cadastral maps,REAL,Revenue Department,Shapefile,Polygon,EPSG:32643,2024-06-01,-,Ward 12 AOI,Ready
+DS_05,Jaipur_Revenue_Records_Link,Revenue records,SYNTHETIC,Revenue Department,CSV,Tabular,-,2026-01-10,-,Ward 12 AOI,Ready
+DS_06,Municipal_GIS_Layers,Municipal GIS layers,REAL,Jaipur Municipal Corporation,Shapefile,Polygon/Line,EPSG:32643,2024-12-01,-,Ward 12 AOI,Ready
+DS_07,Utility_Network_Water_Sewer,Utility network data,SYNTHETIC,PHED / JVVNL,GeoJSON,Line/Point,EPSG:32643,2026-02-01,-,Ward 12 AOI,Ready
+DS_08,Ground_Truthing_Observations,Ground Truthing datasets,DERIVED,Field Survey Team,CSV,Point,EPSG:4326,2026-02-15,-,Ward 12 AOI,Ready
+DS_09,GNSS_CORS_Control_Points,GNSS/CORS survey data,REAL,Survey of India,CSV,Point,EPSG:4326,2024-05-20,-,Jaipur Region,Ready
+DS_10,OSM_Building_Footprints,Building footprint datasets,REAL,OpenStreetMap / Derived,GeoJSON,Polygon,EPSG:4326,2025-08-01,-,Ward 12 AOI,Ready
+DS_11,Jaipur_Ward12_Roads_SYNTHETIC,Road network,SYNTHETIC,Municipal / Public Works,GeoJSON,Line,EPSG:4326,2026-09-18,-,Ward 12 AOI,Ready
+DS_12,Jaipur_Ward12_Utilities_SYNTHETIC,Utility network data,SYNTHETIC,PHED / JVVNL,GeoJSON,Line,EPSG:4326,2026-09-18,-,Ward 12 AOI,Ready
+DS_13,Jaipur_Ward12_GNSS_SYNTHETIC,GNSS/CORS survey data,SYNTHETIC,Survey of India,CSV,Point,EPSG:4326,2026-09-18,-,Ward 12 AOI,Ready
+DS_14,Jaipur_Ward12_GroundTruth_SYNTHETIC,Ground Truthing datasets,SYNTHETIC,Field Survey Team,CSV,Point,EPSG:4326,2026-09-18,-,Ward 12 AOI,Ready
+DS_15,Jaipur_Ward12_Revenue_SYNTHETIC,Revenue records,SYNTHETIC,Revenue Department,CSV,Tabular,-,2026-09-18,-,Ward 12 AOI,Ready
+DS_16,Jaipur_Ward12_Municipal_SYNTHETIC,Municipal GIS layers,SYNTHETIC,Jaipur Municipal Corporation,GeoJSON,Polygon,EPSG:4326,2026-09-18,-,Ward 12 AOI,Ready
+DS_17,Jaipur_Ward12_Drone_SYNTHETIC,Drone imagery,SYNTHETIC,Surveys and Land Records,GeoTIFF,Raster,EPSG:4326,2026-09-18,~4m (demo),Ward 12 AOI,Ready
+DS_18,Jaipur_Ward12_ORI_SYNTHETIC,ORI,SYNTHETIC,State Remote Sensing Application Centre,GeoTIFF,Raster,EPSG:4326,2026-09-18,~4m (demo),Ward 12 AOI,Ready
+DS_19,Jaipur_Ward12_DSM_DTM_SYNTHETIC,DSM/DTM,SYNTHETIC,Surveys and Land Records,GeoTIFF,Raster,EPSG:4326,2026-09-18,~4m (demo),Ward 12 AOI,Ready
+DS_20,Jaipur_Ward12_AIFeatures_SYNTHETIC,AI-generated features,SYNTHETIC,GeoAI / Computer Vision,GeoJSON,Polygon,EPSG:4326,2026-09-18,-,Ward 12 AOI,Ready
+DS_21,Jaipur_Ward12_Roads_OSM,Road network,REAL,OpenStreetMap,GeoJSON,Line,EPSG:4326,2026-09-19,-,Ward 12 AOI,Ready
+DS_22,Jaipur_Ward12_Buildings_OSM,Building footprint datasets,REAL,OpenStreetMap,GeoJSON,Polygon,EPSG:4326,2026-09-19,-,Ward 12 AOI,Ready

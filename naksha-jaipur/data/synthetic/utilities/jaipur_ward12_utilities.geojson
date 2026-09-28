@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "jaipur_ward12_utilities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "utility_id": "U-01", "utility_type": "water_supply", "department": "PHED" }, "geometry": { "type": "LineString", "coordinates": [ [ 75.7855, 26.9126 ], [ 75.7895, 26.9126 ] ] } },
+{ "type": "Feature", "properties": { "utility_id": "U-02", "utility_type": "sewer", "department": "PHED" }, "geometry": { "type": "LineString", "coordinates": [ [ 75.7855, 26.9127 ], [ 75.7895, 26.9127 ] ] } },
+{ "type": "Feature", "properties": { "utility_id": "U-03", "utility_type": "electric_line", "department": "JVVNL" }, "geometry": { "type": "LineString", "coordinates": [ [ 75.78665, 26.9108 ], [ 75.78665, 26.913 ] ] } }
+]
+}

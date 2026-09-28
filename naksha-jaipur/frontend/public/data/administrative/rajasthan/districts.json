@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "source": "Government of India — Local Government Directory (LGD)",
+    "state": "Rajasthan",
+    "stateCode": "8",
+    "snapshotType": "Downloaded LGD state reports",
+    "generatedAt": "2026-09-19T03:16:25.907116+00:00"
+  },
+  "districts": [
+    {
+      "code": "86",
+      "version": "5",
+      "name": "Ajmer",
+      "localName": "AJMER",
+      "census2001Code": "21",
+      "census2011Code": "119"
+    },
+    {
+      "code": "87",
+      "version": "4",
+      "name": "Alwar",
+      "localName": "ALWAR",
+      "census2001Code": "06",
+      "census2011Code": "104"
+    },
+    {
+      "code": "775",
+      "version": "8",
+      "name": "Balotra",
+      "localName": "बालोतरा",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "88",
+      "version": "2",
+      "name": "Banswara",
+      "localName": "BANSWARA",
+      "census2001Code": "28",
+      "census2011Code": "125"
+    },
+    {
+      "code": "89",
+      "version": "3",
+      "name": "Baran",
+      "localName": "BARAN",
+      "census2001Code": "31",
+      "census2011Code": "128"
+    },
+    {
+      "code": "90",
+      "version": "9",
+      "name": "Barmer",
+      "localName": "BARMER",
+      "census2001Code": "17",
+      "census2011Code": "115"
+    },
+    {
+      "code": "774",
+      "version": "7",
+      "name": "Beawar",
+      "localName": "ब्‍यावर",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "91",
+      "version": "4",
+      "name": "Bharatpur",
+      "localName": "BHARATPUR",
+      "census2001Code": "07",
+      "census2011Code": "105"
+    },
+    {
+      "code": "92",
+      "version": "11",
+      "name": "Bhilwara",
+      "localName": "BHILWARA",
+      "census2001Code": "24",
+      "census2011Code": "122"
+    },
+    {
+      "code": "93",
+      "version": "4",
+      "name": "Bikaner",
+      "localName": "BIKANER",
+      "census2001Code": "03",
+      "census2011Code": "101"
+    },
+    {
+      "code": "94",
+      "version": "1",
+      "name": "Bundi",
+      "localName": "BUNDI",
+      "census2001Code": "23",
+      "census2011Code": "121"
+    },
+    {
+      "code": "95",
+      "version": "1",
+      "name": "Chittorgarh",
+      "localName": "CHITTORGARH",
+      "census2001Code": "29",
+      "census2011Code": "126"
+    },
+    {
+      "code": "96",
+      "version": "1",
+      "name": "Churu",
+      "localName": "CHURU",
+      "census2001Code": "04",
+      "census2011Code": "102"
+    },
+    {
+      "code": "97",
+      "version": "1",
+      "name": "Dausa",
+      "localName": "DAUSA",
+      "census2001Code": "11",
+      "census2011Code": "109"
+    },
+    {
+      "code": "767",
+      "version": "1",
+      "name": "Deeg",
+      "localName": "डीग",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "98",
+      "version": "2",
+      "name": "Dholpur",
+      "localName": "DHOLPUR",
+      "census2001Code": "08",
+      "census2011Code": "106"
+    },
+    {
+      "code": "768",
+      "version": "2",
+      "name": "Didwana-Kuchaman",
+      "localName": "डीडवाना-कुचामन",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "99",
+      "version": "1",
+      "name": "Dungarpur",
+      "localName": "DUNGARPUR",
+      "census2001Code": "27",
+      "census2011Code": "124"
+    },
+    {
+      "code": "100",
+      "version": "5",
+      "name": "Ganganagar",
+      "localName": "GANGANAGAR",
+      "census2001Code": "01",
+      "census2011Code": "099"
+    },
+    {
+      "code": "101",
+      "version": "1",
+      "name": "Hanumangarh",
+      "localName": "HANUMANGARH",
+      "census2001Code": "02",
+      "census2011Code": "100"
+    },
+    {
+      "code": "102",
+      "version": "9",
+      "name": "Jaipur",
+      "localName": "JAIPUR",
+      "census2001Code": "12",
+      "census2011Code": "110"
+    },
+    {
+      "code": "103",
+      "version": "33",
+      "name": "Jaisalmer",
+      "localName": "JAISALMER",
+      "census2001Code": "16",
+      "census2011Code": "114"
+    },
+    {
+      "code": "104",
+      "version": "3",
+      "name": "Jalore",
+      "localName": "JALORE",
+      "census2001Code": "18",
+      "census2011Code": "116"
+    },
+    {
+      "code": "105",
+      "version": "1",
+      "name": "Jhalawar",
+      "localName": "JHALAWAR",
+      "census2001Code": "32",
+      "census2011Code": "129"
+    },
+    {
+      "code": "106",
+      "version": "7",
+      "name": "Jhunjhunu",
+      "localName": "JHUNJHUNU",
+      "census2001Code": "05",
+      "census2011Code": "103"
+    },
+    {
+      "code": "107",
+      "version": "4",
+      "name": "Jodhpur",
+      "localName": "JODHPUR",
+      "census2001Code": "15",
+      "census2011Code": "113"
+    },
+    {
+      "code": "108",
+      "version": "3",
+      "name": "Karauli",
+      "localName": "KARAULI",
+      "census2001Code": "09",
+      "census2011Code": "107"
+    },
+    {
+      "code": "770",
+      "version": "1",
+      "name": "Khairthal-Tijara",
+      "localName": "खैरथल-तिजारा",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "109",
+      "version": "3",
+      "name": "Kota",
+      "localName": "KOTA",
+      "census2001Code": "30",
+      "census2011Code": "127"
+    },
+    {
+      "code": "782",
+      "version": "3",
+      "name": "Kotputli-Behror",
+      "localName": "कोटपूतली-बहरोड",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "110",
+      "version": "3",
+      "name": "Nagaur",
+      "localName": "NAGAUR",
+      "census2001Code": "14",
+      "census2011Code": "112"
+    },
+    {
+      "code": "111",
+      "version": "2",
+      "name": "Pali",
+      "localName": "PALI",
+      "census2001Code": "20",
+      "census2011Code": "118"
+    },
+    {
+      "code": "772",
+      "version": "33",
+      "name": "Phalodi",
+      "localName": "फलाैदी",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "629",
+      "version": "1",
+      "name": "Pratapgarh",
+      "localName": "PRATAPGARH",
+      "census2001Code": "",
+      "census2011Code": "131"
+    },
+    {
+      "code": "112",
+      "version": "5",
+      "name": "Rajsamand",
+      "localName": "RAJSAMAND",
+      "census2001Code": "25",
+      "census2011Code": "123"
+    },
+    {
+      "code": "777",
+      "version": "3",
+      "name": "Salumbar",
+      "localName": "सलूम्‍बर",
+      "census2001Code": "",
+      "census2011Code": ""
+    },
+    {
+      "code": "113",
+      "version": "3",
+      "name": "Sawai Madhopur",
+      "localName": "SAWAI MADHOPUR",
+      "census2001Code": "10",
+      "census2011Code": "108"
+    },
+    {
+      "code": "114",
+      "version": "4",
+      "name": "Sikar",
+      "localName": "SIKAR",
+      "census2001Code": "13",
+      "census2011Code": "111"
+    },
+    {
+      "code": "115",
+      "version": "4",
+      "name": "Sirohi",
+      "localName": "SIROHI",
+      "census2001Code": "19",
+      "census2011Code": "117"
+    },
+    {
+      "code": "116",
+      "version": "4",
+      "name": "Tonk",
+      "localName": "TONK",
+      "census2001Code": "22",
+      "census2011Code": "120"
+    },
+    {
+      "code": "117",
+      "version": "9",
+      "name": "Udaipur",
+      "localName": "UDAIPUR",
+      "census2001Code": "26",
+      "census2011Code": "130"
+    }
+  ]
+}

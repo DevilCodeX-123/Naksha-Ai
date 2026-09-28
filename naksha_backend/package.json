@@ -1,0 +1,8 @@
+{
+  "name": "naksha_backend_launcher",
+  "version": "1.0.0",
+  "description": "Launcher for Python Backend",
+  "scripts": {
+    "dev": "venv\\Scripts\\activate && uvicorn main:app --reload --port 8000"
+  }
+}

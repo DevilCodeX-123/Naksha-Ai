@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "jaipur_ward12_ai_features",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "feature_id": "AI-01", "feature_type": "building_detection", "confidence_score": 91.4, "source_model": "NAKSHA-CV-BuildingDetect-v1", "extracted_date": "2026-02-10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 75.78742662567538, 26.912125195600424 ], [ 75.78742662567538, 26.912342816056469 ], [ 75.787095931308585, 26.912342816056469 ], [ 75.787095931308585, 26.912125195600424 ], [ 75.78742662567538, 26.912125195600424 ] ] ] } },
+{ "type": "Feature", "properties": { "feature_id": "AI-02", "feature_type": "building_detection", "confidence_score": 87.9, "source_model": "NAKSHA-CV-BuildingDetect-v1", "extracted_date": "2026-02-10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 75.787863847702312, 26.912079960718728 ], [ 75.787863847702312, 26.912449655688359 ], [ 75.787521737670886, 26.912449655688359 ], [ 75.787521737670886, 26.912079960718728 ], [ 75.787863847702312, 26.912079960718728 ] ] ] } },
+{ "type": "Feature", "properties": { "feature_id": "AI-03", "feature_type": "unregistered_structure", "confidence_score": 68.2, "source_model": "NAKSHA-CV-BuildingDetect-v1", "extracted_date": "2026-02-10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 75.7889, 26.9117 ], [ 75.7889, 26.9119 ], [ 75.7886, 26.9119 ], [ 75.7886, 26.9117 ], [ 75.7889, 26.9117 ] ] ] } }
+]
+}

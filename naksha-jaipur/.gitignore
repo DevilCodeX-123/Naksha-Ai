@@ -1,0 +1,29 @@
+# Environment variables / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# AI model files
+AI/models/
+
+# Large/local datasets
+data/raw/
+data/processed/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

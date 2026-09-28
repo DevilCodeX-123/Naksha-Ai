@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "Bldg_ID": "B-01", "Type": "House", "survey_date": "2025-06-01" },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [75.7871, 26.9121], [75.7874, 26.9121], [75.7874, 26.9124], [75.7871, 26.9124], [75.7871, 26.9121] ] ] } },
+    { "type": "Feature", "properties": { "Bldg_ID": "B-02", "Type": "Shop", "survey_date": "2025-06-01", "note": "pre-expansion footprint" },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [75.78765, 26.91215], [75.78785, 26.91215], [75.78785, 26.91235], [75.78765, 26.91235], [75.78765, 26.91215] ] ] } },
+    { "type": "Feature", "properties": { "Bldg_ID": "B-OLD-01", "Type": "Shed", "survey_date": "2025-06-01", "note": "demolished before the current survey" },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [75.7885, 26.9130], [75.7887, 26.9130], [75.7887, 26.9132], [75.7885, 26.9132], [75.7885, 26.9130] ] ] } }
+  ]
+}

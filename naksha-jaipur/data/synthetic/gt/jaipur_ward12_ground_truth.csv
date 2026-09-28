@@ -1,0 +1,3 @@
+gt_id,observation_type,notes,verified_by,survey_date,longitude,latitude
+GT-01,building_verified,Structure matches cadastral footprint,Field Team A,2026-02-01,75.78725,26.91225
+GT-02,land_use_confirmed,Shop in active commercial use,Field Team A,2026-02-01,75.78775,26.91225
