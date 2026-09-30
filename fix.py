@@ -1,12 +1,102 @@
-import os
+import sys
+content = open('naksha_frontend/src/components/views/ExploreMap.jsx', encoding='utf-8').read()
 
-content = open('naksha_backend/main.py', encoding='utf-8').read()
-content = content.replace('roads_gdf = gpd.read_file(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\jaipur_roads.geojson")', 'with open(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\jaipur_roads.geojson", "r") as f:\n        roads_fallback = json.load(f)\n    roads_gdf = None')
-content = content.replace('roads_fallback = json.loads(roads_gdf.to_json())', '')
-content = content.replace('municipal_gdf = gpd.read_file(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\municipal_records.geojson")', 'with open(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\municipal_records.geojson", "r") as f:\n        municipal_fallback = json.load(f)\n    municipal_gdf = None')
-content = content.replace('municipal_fallback = json.loads(municipal_gdf.to_json())', '')
-content = content.replace('revenue_gdf = gpd.read_file(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\revenue_records.geojson")', 'with open(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\revenue_records.geojson", "r") as f:\n        revenue_fallback = json.load(f)\n    revenue_gdf = None')
-content = content.replace('revenue_fallback = json.loads(revenue_gdf.to_json())', '')
-content = content.replace('parcels_gdf = gpd.read_file(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\jaipur_parcels.geojson")', 'with open(r"C:\\Users\\Dell\\Documents\\Naksha Ai\\jaipur_parcels.geojson", "r") as f:\n        parcels_fallback = json.load(f)\n    parcels_gdf = gpd.GeoDataFrame.from_features(parcels_fallback["features"]) if "features" in parcels_fallback else None')
-content = content.replace('parcels_fallback = json.loads(parcels_gdf.to_json())', '')
-open('naksha_backend/main.py', 'w', encoding='utf-8').write(content)
+start_idx = content.find('  useEffect(() => {\n    if (\n      !map.current\n    ) {\n      return;\n    }\n\n    const updateAOI =')
+end_idx = content.find('  async function navigateToAdministrativeSelection', start_idx)
+
+if start_idx == -1 or end_idx == -1:
+    print("Could not find blocks")
+    sys.exit(1)
+
+old_block = content[start_idx:end_idx]
+
+new_block = """  useEffect(() => {
+    if (!map.current) return;
+
+    const updateAOI = () => {
+      if (!map.current || !map.current.isStyleLoaded()) return;
+
+      if (polygonPoints.length === 0) {
+        if (map.current.getLayer(AOI_FILL_LAYER_ID)) map.current.removeLayer(AOI_FILL_LAYER_ID);
+        if (map.current.getLayer(AOI_LINE_LAYER_ID)) map.current.removeLayer(AOI_LINE_LAYER_ID);
+        if (map.current.getLayer(AOI_POINTS_LAYER_ID)) map.current.removeLayer(AOI_POINTS_LAYER_ID);
+        if (map.current.getSource(AOI_SOURCE_ID)) map.current.removeSource(AOI_SOURCE_ID);
+        return;
+      }
+
+      const features = [];
+      polygonPoints.forEach(point => {
+        features.push({
+          type: 'Feature',
+          geometry: { type: 'Point', coordinates: point },
+          properties: {},
+        });
+      });
+
+      if (polygonPoints.length >= 2) {
+        const lineCoordinates = [...polygonPoints];
+        if (polygonPoints.length >= 3) {
+          lineCoordinates.push(polygonPoints[0]);
+        }
+        features.push({
+          type: 'Feature',
+          geometry: { type: 'LineString', coordinates: lineCoordinates },
+          properties: {},
+        });
+      }
+
+      if (polygonPoints.length >= 3) {
+        features.push({
+          type: 'Feature',
+          geometry: { type: 'Polygon', coordinates: [[...polygonPoints, polygonPoints[0]]] },
+          properties: {},
+        });
+      }
+
+      const data = { type: 'FeatureCollection', features };
+      const source = map.current.getSource(AOI_SOURCE_ID);
+
+      if (source) {
+        source.setData(data);
+      } else {
+        map.current.addSource(AOI_SOURCE_ID, { type: 'geojson', data });
+        map.current.addLayer({
+          id: AOI_FILL_LAYER_ID,
+          type: 'fill',
+          source: AOI_SOURCE_ID,
+          filter: ['==', '$type', 'Polygon'],
+          paint: { 'fill-color': '#2563eb', 'fill-opacity': 0.15 },
+        });
+        map.current.addLayer({
+          id: AOI_LINE_LAYER_ID,
+          type: 'line',
+          source: AOI_SOURCE_ID,
+          filter: ['==', '$type', 'LineString'],
+          paint: { 'line-color': '#2563eb', 'line-width': 2, 'line-dasharray': [2, 2] },
+        });
+        map.current.addLayer({
+          id: AOI_POINTS_LAYER_ID,
+          type: 'circle',
+          source: AOI_SOURCE_ID,
+          filter: ['==', '$type', 'Point'],
+          paint: { 'circle-radius': 5, 'circle-color': '#ffffff', 'circle-stroke-width': 2, 'circle-stroke-color': '#2563eb' },
+        });
+      }
+    };
+
+    if (map.current.loaded()) {
+      updateAOI();
+    } else {
+      map.current.once('load', updateAOI);
+    }
+  }, [polygonPoints]);
+
+  /* ==========================================================
+     ADMINISTRATIVE GEOCODING
+     ========================================================== */
+
+"""
+
+new_content = content.replace(old_block, new_block)
+open('naksha_frontend/src/components/views/ExploreMap.jsx', 'w', encoding='utf-8').write(new_content)
+print("Done")
